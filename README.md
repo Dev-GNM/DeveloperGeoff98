@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geoffrey Njihia</h1>
 <h3 align="center">A passionate data analyst and fullstack frontend developer.</h3>
+![image](https://user-images.githubusercontent.com/104501296/176262650-4995e73f-1b02-41d1-8bdf-8d5094ea426b.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developergeoff98&label=Profile%20views&color=0e75b6&style=flat" alt="developergeoff98" /> </p>
 
